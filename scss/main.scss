@@ -1,0 +1,10 @@
+// Get normalize from Foundation package.
+@import 'normalize';
+
+// Get Foundation overrides and components.
+@import 'vendor/foundation/settings';
+@import 'vendor/foundation/components';
+
+body {
+    background: blue;
+}
