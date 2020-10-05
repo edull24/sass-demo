@@ -20,7 +20,7 @@
     "gulp": "^3.6.2",
     "gulp-ruby-sass": "^0.4.3",
     "gulp-if": "^1.1.0",
-    "minimist": "0.0.8",
+    "minimist": "1.2.5",
     "browser-sync": "^0.8.2"
   },
   "dependencies": {}
